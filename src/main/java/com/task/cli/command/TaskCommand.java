@@ -1,8 +1,8 @@
-package com.task.cli.taskcli.command;
+package com.task.cli.command;
 
-import com.task.cli.taskcli.business.TaskBusiness;
-import com.task.cli.taskcli.entity.TaskEntity;
-import com.task.cli.taskcli.entity.enums.Status;
+import com.task.cli.business.TaskBusiness;
+import com.task.cli.entity.TaskEntity;
+import com.task.cli.entity.enums.Status;
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.command.annotation.Command;
 import org.springframework.shell.command.annotation.Option;

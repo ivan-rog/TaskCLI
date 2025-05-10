@@ -1,6 +1,6 @@
-package com.task.cli.taskcli.entity;
+package com.task.cli.entity;
 
-import com.task.cli.taskcli.entity.enums.Status;
+import com.task.cli.entity.enums.Status;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

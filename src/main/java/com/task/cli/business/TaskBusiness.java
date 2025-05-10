@@ -1,8 +1,8 @@
-package com.task.cli.taskcli.business;
+package com.task.cli.business;
 
-import com.task.cli.taskcli.entity.TaskEntity;
-import com.task.cli.taskcli.entity.enums.Status;
-import com.task.cli.taskcli.repository.TaskRepository;
+import com.task.cli.entity.TaskEntity;
+import com.task.cli.entity.enums.Status;
+import com.task.cli.repository.TaskRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

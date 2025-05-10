@@ -1,4 +1,4 @@
-package com.task.cli.taskcli.entity.enums;
+package com.task.cli.entity.enums;
 
 import lombok.Getter;
 

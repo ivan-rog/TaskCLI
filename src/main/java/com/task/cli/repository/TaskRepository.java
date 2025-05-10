@@ -1,7 +1,7 @@
-package com.task.cli.taskcli.repository;
+package com.task.cli.repository;
 
-import com.task.cli.taskcli.entity.TaskEntity;
-import com.task.cli.taskcli.entity.enums.Status;
+import com.task.cli.entity.TaskEntity;
+import com.task.cli.entity.enums.Status;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
